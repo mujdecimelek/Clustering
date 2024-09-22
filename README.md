@@ -76,7 +76,3 @@ To run the project locally, follow these steps:
 ## Conclusion
 
 This project provides valuable insights into customer segmentation using K-means clustering. By identifying different customer groups based on spending habits and income levels, mall owners can implement personalized marketing strategies to increase sales and improve customer loyalty.
-
-## Author
-
-**Your Name**
